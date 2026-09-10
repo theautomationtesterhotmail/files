@@ -1937,3 +1937,4 @@ Restarted App. at 17 March 2026 11:53:14 AM UTC by sb47 after login SB47 on host
 10 September 2026 09:29:47 AM UTC | CPC-JBhal-1GQ7J | JBhalaaj        | Launched application with wcscr option and base dir C:\Users\JBhalaaj\AppData\Roaming\WeAut_scr_v1.5scru_10Sep2026_1356
 10 September 2026 09:29:53 AM UTC | CPC-JBhal-1GQ7J | JBhalaaj        | Opened excel C:\Users\JBhalaaj\AppData\Roaming\WeAut_scr_v1.5scru_10Sep2026_1356\input_data\input_notify_vendor_data_extract.xlsx
 10 September 2026 09:30:44 AM UTC | CPC-JBhal-1GQ7J | JBhalaaj        | Saved login credentials for JBhalaaj
+10 September 2026 09:30:52 AM UTC | CPC-JBhal-1GQ7J | JBhalaaj        | Running script po_nvd_extract
